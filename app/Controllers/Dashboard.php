@@ -17,10 +17,10 @@ class Dashboard extends BaseController {
 	}
 
 	public function log_out() {
-        $array_items = ['fullname', 'username'];
-       session()->remove($array_items);
-       session()->setFlashdata('message','Anda Berhasil Keluar'); 
-       return redirect()->to(base_url('Login'));
-    }
+      $array_items = ['fullname', 'username'];
+      session()->remove($array_items);
+      session()->setFlashdata('message','Anda Berhasil Keluar'); 
+      return redirect()->to(base_url('Login'));
+  }
 
 }
