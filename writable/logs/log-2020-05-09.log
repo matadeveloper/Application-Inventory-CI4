@@ -1,0 +1,10 @@
+CRITICAL - 2020-05-09 03:15:01 --> Undefined variable: Kategori
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(40): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp72\\htdo...', 40, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(20): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

@@ -1,0 +1,1337 @@
+CRITICAL - 2020-05-10 19:40:24 --> Undefined property: App\Controllers\Master_kategori::$output
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 27, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(51): App\Controllers\Master_kategori->output_json('{}')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->add()
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-10 19:42:44 --> Non-abstract method App\Controllers\Master_kategori::output() must contain body
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2020-05-10 19:43:52 --> Undefined property: App\Controllers\Master_kategori::$output
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 29, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(53): App\Controllers\Master_kategori->output_json('{}')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->add()
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-10 19:56:20 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:56:49 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:56:49 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:56:50 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:58:03 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:58:11 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:58:11 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:58:12 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:58:12 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:58:20 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:58:21 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:58:22 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:58:41 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:58:46 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:58:49 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:58:49 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:58:49 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:58:49 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:58:50 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:58:50 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:58:50 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:58:50 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:59:07 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:59:08 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:59:18 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:59:19 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:59:19 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:59:25 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:59:25 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:59:25 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:59:41 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:59:42 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:59:42 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:59:43 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:59:49 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:59:49 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:59:50 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:59:50 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:59:50 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:59:50 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 19:59:51 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:00:08 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:00:08 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:00:08 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:00:09 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:00:23 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:00:30 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:00:44 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:00:45 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:00:45 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:00:45 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:01:37 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:01:38 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:01:38 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:01:38 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:01:38 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:01:39 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:01:39 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:01:40 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:01:40 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:01:40 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:01:41 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:01:41 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:01:41 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:01:42 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:01:42 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:01:45 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:01:57 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:01:58 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:01:58 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:08 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:08 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:08 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:09 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:09 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:09 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:09 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:09 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:10 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:10 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:11 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:11 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:11 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:11 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:11 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:12 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:12 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:12 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:12 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:12 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:13 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:13 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:13 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:13 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:13 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:13 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:14 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:14 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:14 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:14 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:28 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:29 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:43 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:43 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:43 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:43 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:44 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:44 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:44 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:44 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:45 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:45 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:45 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:45 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:45 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:46 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:46 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:46 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:47 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:48 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:48 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:48 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:49 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:49 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:02:50 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-10 20:10:58 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Dashboard')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Dashboard')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp72\\htdo...')
+#6 {main}
+CRITICAL - 2020-05-10 20:11:24 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp72\htdocs\data_belajar_ci4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp72\\htdo...')
+#9 {main}
+CRITICAL - 2020-05-10 20:12:05 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp72\htdocs\data_belajar_ci4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp72\\htdo...')
+#9 {main}
+CRITICAL - 2020-05-10 20:12:05 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp72\htdocs\data_belajar_ci4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp72\\htdo...')
+#9 {main}
+CRITICAL - 2020-05-10 20:12:06 --> Undefined property: stdClass::$nama
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp72\\htdo...', 48, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): view('master/kategori...', Array)
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp72\htdocs\data_belajar_ci4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp72\\htdo...')
+#9 {main}
+CRITICAL - 2020-05-10 20:30:07 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Dashboard')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Dashboard')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp72\\htdo...')
+#6 {main}
+CRITICAL - 2020-05-10 20:30:41 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Dashboard')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Dashboard')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp72\\htdo...')
+#6 {main}

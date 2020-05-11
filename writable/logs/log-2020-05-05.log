@@ -1,0 +1,1372 @@
+CRITICAL - 2020-05-05 19:42:23 --> Invalid file: master/kategori.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/kategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/kategori')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:42:59 --> Undefined variable: master
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp72\\htdo...', 42, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/kategori...')
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-05 19:43:00 --> Undefined variable: master
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp72\\htdo...', 42, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/kategori...')
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-05 19:43:03 --> Undefined variable: master
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp72\\htdo...', 42, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/kategori...')
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-05 19:43:51 --> Undefined variable: master
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp72\\htdo...', 42, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/kategori...')
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-05 19:44:35 --> Undefined variable: master
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp72\\htdo...', 42, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/kategori...')
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-05 19:45:55 --> Undefined variable: master
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\masteruser.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp72\\htdo...', 41, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/masterus...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/masterus...')
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-05 19:45:56 --> Undefined variable: master
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\masteruser.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp72\\htdo...', 41, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/masterus...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/masterus...')
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-05 19:45:56 --> Undefined variable: master
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\masteruser.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp72\\htdo...', 41, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/masterus...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/masterus...')
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-05 19:45:56 --> Undefined variable: master
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\masteruser.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp72\\htdo...', 41, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/masterus...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/masterus...')
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-05 19:46:02 --> Undefined variable: master
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\masteruser.php(41): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp72\\htdo...', 41, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/masterus...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/masterus...')
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-05 19:47:45 --> Invalid file: master/dashboard.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/dashboar...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/dashboar...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/dashboar...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:47:47 --> Invalid file: master/dashboard.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/dashboar...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/dashboar...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/dashboar...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:47:58 --> Invalid file: master/mategori.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:48:01 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:48:02 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:48:02 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:48:02 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:48:03 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:48:03 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:48:03 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:48:14 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:48:15 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:48:15 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:48:15 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:49 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:50 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:51 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:51 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:51 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:51 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:51 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:52 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:52 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:52 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:52 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:52 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:53 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:53 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:53 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:54 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:54 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:54 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:54 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:55 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:55 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:57 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:57 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:58 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:58 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:58 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:58 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:59 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:59 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:59 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:59 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:50:59 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:00 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:00 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:00 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:00 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:00 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:01 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:01 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:01 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:01 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:01 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:02 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:02 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:02 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:02 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:03 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:03 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:03 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:03 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:04 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:04 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:04 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:04 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:04 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:05 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:05 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:05 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:05 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:06 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:06 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:51:29 --> Invalid file: master/mategori/data.php
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(224): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('master/mategori...')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/mategori...', Array, true)
+#2 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/mategori...')
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-05-05 19:52:47 --> Undefined variable: master
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Views\master\kategori\data.php(42): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp72\\htdo...', 42, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\View\View.php(236): include('C:\\xampp72\\htdo...')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\Common.php(1071): CodeIgniter\View\View->render('master/kategori...', Array, true)
+#3 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): view('master/kategori...')
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#5 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#6 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-05-05 20:02:38 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:02:39 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:03:02 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:03:03 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:03:15 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:03:34 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:03:35 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:03:35 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:03:35 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:03:58 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:03:58 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:03:58 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:03:58 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:04:14 --> Undefined variable: data
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp72\\htdo...', 17, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:04:15 --> Undefined variable: data
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp72\\htdo...', 17, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:04:15 --> Undefined variable: data
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp72\\htdo...', 17, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:04:15 --> Undefined variable: data
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp72\\htdo...', 17, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:05:21 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:05:21 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:05:29 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:05:30 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:05:30 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:05:31 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:05:31 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:06:30 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:06:31 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:06:31 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:06:32 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:06:32 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:07:06 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(16): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:09:29 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:09:30 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:09:30 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:09:30 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:09:30 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:09:30 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:09:37 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:09:37 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:09:38 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:09:38 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:09:38 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:09:38 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:10:00 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:10:01 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:10:01 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:10:01 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:10:01 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:10:01 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:10:02 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:10:02 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:10:02 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:10:23 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:10:23 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:10:23 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:10:40 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(20): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:17:03 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(20): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:17:04 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(20): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:17:04 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(20): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:17:04 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(20): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:24:29 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(20): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:24:29 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(20): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:24:30 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(20): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:24:30 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(20): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:24:30 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(20): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:24:30 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(20): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:24:30 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(20): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:24:31 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(20): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:24:31 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(20): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:24:31 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(20): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:25:27 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:25:28 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::select()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:30:01 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:30:18 --> Undefined variable: db
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Models\M_master.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp72\\htdo...', 11, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): App\Models\M_master->getkategori()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-05 20:30:18 --> Undefined variable: db
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Models\M_master.php(11): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp72\\htdo...', 11, Array)
+#1 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): App\Models\M_master->getkategori()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#4 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-05-05 20:34:09 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::first()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:34:17 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+#0 C:\xampp72\htdocs\data_belajar_ci4\app\Controllers\Master_kategori.php(21): App\Models\M_master->getkategori()
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(910): App\Controllers\Master_kategori->index()
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Master_kategori))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:34:44 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:34:53 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:34:53 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:34:53 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-05-05 20:34:58 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp72\htdocs\data_belajar_ci4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('Master_kategori')
+#1 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Master_kategori')
+#2 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp72\htdocs\data_belajar_ci4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp72\htdocs\data_belajar_ci4\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

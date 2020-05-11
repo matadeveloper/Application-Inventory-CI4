@@ -21,7 +21,9 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'http://localhost:8181/belajar_ci4/';
+	public $baseURL = 'http://localhost:8181/data_belajar_ci4/';
+	// public $baseURL = 'http://localhost:8080';
+
 
 	/*
 	|--------------------------------------------------------------------------

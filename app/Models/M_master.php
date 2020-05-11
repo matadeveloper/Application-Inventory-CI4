@@ -1,31 +1,61 @@
-<?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+<?php 
+namespace App\Models;
 
-class M_master extends CI_Model {
+use CodeIgniter\Model;
 
+class M_master extends Model {
 
-	function user(){
-		$query = $this->db->query("SELECT * FROM tbl_mst_user");
-		return $query->result();
+	public function getkategori(){
+		$query = $this->db->table('tbl_mst_kategori')->get();
+        return $query->getResult();
+		
 	}
 
-	function adduser($data){
-		$query = $this->db->query("INSERT Into tbl_mst_user(nik,username,password,status) VALUES ('$data[nik]','$data[username]','$data[password]','$data[status]')");
-		return true;
+	public function show_data($id){
+		$query = $this->db->query("SELECT * from tbl_mst_kategori where idkategori='$id'");
+        return $query->getRow();		
 	}
 
-	function showuser($id){
-		$query = $this->db->query("SELECT * FROM tbl_mst_user where userid='$id'");
-		return $query->result();
-	}
+	//
 
-	function edituser($data,$id){
-		$query = $this->db->query("UPDATE tbl_mst_user set nik='$data[nik]',username='$data[username]',password='$data[password]',status='$data[status]' where userid='$id'");
-		return true;
-	}
+	public function create_data($table, $data)
+    {
+        $this->db->transBegin();
+		$this->db->table($table)->insert($data);
 
-	function deleteuser($id){
-		$query = $this->db->query("DELETE FROM tbl_mst_user where userid='$id'");
-		return true;
-	}
+		if ($this->db->transStatus() === FALSE)
+		{
+		        $this->db->transRollback();
+		        return false;
+		}
+		else
+		{
+		        $this->db->transCommit();
+		        return true;
+		}
+    }
+
+    public function update_data($table,$id,$data)
+    {
+        $this->db->transBegin();
+        $builder = $this->db->table($table);
+		$builder->where($id)->update($data);
+
+		if ($this->db->transStatus() === FALSE)
+		{
+		        $this->db->transRollback();
+		        return false;
+		}
+		else
+		{
+		        $this->db->transCommit();
+		        return true;
+		}
+    }
+
+    public function delete_data($table,$pk)
+    {
+    	$builder = $this->db->table($table);
+        return $builder->where($pk)->delete();
+    } 
 }

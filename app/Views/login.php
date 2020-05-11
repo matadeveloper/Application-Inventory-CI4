@@ -39,7 +39,7 @@
       <?php } ?>
     <!-- <a href=""></a> -->
     <!-- Kita arahkan form login ke controller Login -->
-      <form action="<?php echo base_url('Login/sign_in'); ?>" method="POST">
+      <form action="Login/sign_in" method="POST">
         <div class="input-group mb-3">
           <input type="text" name="username" class="form-control" placeholder="Username" >
           <div class="input-group-append">

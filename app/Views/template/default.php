@@ -15,11 +15,19 @@
   <link rel="stylesheet" href="assets/dist/css/adminlte.min.css">
   <link rel="stylesheet" href="assets/dist/css/adminlte.css">
   <link rel="stylesheet" href="assets/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
+  <link rel="stylesheet" href="assets/plugins/toastr/toastr.min.css">
+  <link rel="stylesheet" href="assets/plugins/sweetalert2-theme-bootstrap-4/bootstrap-4.min.css">
+  <!-- Datatables -->
+  <link rel="stylesheet" href="assets/datatables/datatables.min.css">
   <!-- Google Font: Source Sans Pro -->
   <link href="assets/dist/css/font.css" rel="stylesheet">
   <link href="assets/dist/css/ionic.css" rel="stylesheet">
   <!-- Untuk icon -->
   <link rel="shortcut icon" href="assets/images/matadeveloper.png" />
+  <script src="assets/dist/js/jquery-3.4.1.js"></script>
+  <script type="text/javascript">
+      let base_url = '<?=base_url();?>';
+    </script>
 </head>
 <body class="hold-transition sidebar-mini layout-fixed layout-navbar-fixed layout-footer-fixed">
 <div class="wrapper">
@@ -80,7 +88,7 @@
         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
           <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
-            <a href="<?php echo base_url();?>/dashboard" class="nav-link active">
+            <a href="Dashboard" class="nav-link active">
               <i class="nav-icon fas fa-tachometer-alt"></i>
               <p>
                 Dashboard
@@ -97,21 +105,21 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="<?php echo base_url();?>Master/User" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Master User</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="pages/layout/top-nav-sidebar.html" class="nav-link">
+                <a href="Master_kategori" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Master Kategori</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="pages/layout/boxed.html" class="nav-link">
+                <a href="Master_satuan" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>Master Barang</p>
+                  <p>Master Satuan</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="Master_produk" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Master Produk</p>
                 </a>
               </li>
             </ul>
@@ -129,15 +137,11 @@
     </div>
     <!-- /.sidebar -->
   </aside>
-
-    <!-- /.content-header -->
-
+  <!-- /.content-header -->
   <?= $this->renderSection('content') ?>
-
     <!-- end content -->
-
   <footer class="main-footer">
-    <strong>Copyright © 2020 <a href="www.sambugroup.com">Training Web PT.Pulau Sambu</a>.</strong>
+    <strong>Copyright © 2020 <a href="www.matadeveloper.com">Matadeveloper.com</a>.</strong>
     All rights reserved.
     <div class="float-right d-none d-sm-inline-block">
       <b>Version</b> 1.0.1
@@ -145,13 +149,8 @@
   </footer>
 </div>
   <!-- /.navbar -->
-<script src="assets/plugins/jquery/jquery.min.js"></script>
 <!-- jQuery UI 1.11.4 -->
-<script src="assets/plugins/jquery-ui/jquery-ui.min.js"></script>
 <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
-<script>
-  $.widget.bridge('uibutton', $.ui.button)
-</script>
 <!-- Bootstrap 4 -->
 <script src="assets/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 <!-- ChartJS -->
@@ -175,9 +174,11 @@
 <!-- AdminLTE App -->
 <script src="assets/dist/js/adminlte.js"></script>
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
-<script src="assets/dist/js/pages/dashboard.js"></script>
-<script src="assets/dist/js/pages/dashboard2.js"></script>
+<!-- <script src="assets/dist/js/pages/dashboard.js"></script>
+<script src="assets/dist/js/pages/dashboard2.js"></script> -->
 <!-- AdminLTE for demo purposes -->
 <script src="assets/dist/js/demo.js"></script>
+<!-- datatables -->
+<script src="assets/datatables/datatables.min.js"></script>
 </body>
 </html>

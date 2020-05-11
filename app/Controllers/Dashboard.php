@@ -1,4 +1,5 @@
-<?php namespace App\Controllers;
+<?php 
+namespace App\Controllers;
 
 use App\Models\M_login;
 class Dashboard extends BaseController {
@@ -13,7 +14,7 @@ class Dashboard extends BaseController {
 
 	public function index()
 	{
-		return view('dashboard');
+		return view('dashboard')
 	}
 
 	public function log_out() {
